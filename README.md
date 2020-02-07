@@ -15,8 +15,10 @@ If you would like to submit your recipe, please do the following:
 
 [Joyful Data](https://gramener.com/joyfuldata/) is built by [@pritipg](https://github.com/pritipg).
 
-```text
-Joyful Data is a tool for making beautiful data-driven graphics. Bring your own datasets, design custom visuals in a live, interactive editor and save & share for fun, profit and universal glory. Joyful Data is built with Joy.js, a wonderful library by Nicky Case.
+
+> Joyful Data is a tool for making beautiful data-driven graphics. Bring your own datasets, design custom visuals in a live, 
+> interactive editor and save & share for fun, profit and universal glory. Joyful Data is built with [Joy.js](https://ncase.me/joy/), a wonderful library
+> by [Nicky Case](https://ncase.me/).
 ```
 
 # Reference
